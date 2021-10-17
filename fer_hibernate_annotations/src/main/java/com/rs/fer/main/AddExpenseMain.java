@@ -27,7 +27,7 @@ public class AddExpenseMain {
 		} else {
 			System.out.println("Expense add is failed..");
 		}
-		System.out.println("Git commit check..");
+		System.out.println("Git commi check..");
 	}
 
 }
